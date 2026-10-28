@@ -1,0 +1,2 @@
+c:\Users\Aayush\Downloads\GDG_Poornima_University_Full_Updated.zip# Auto detect text files and perform LF normalization
+* text=auto
